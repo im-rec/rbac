@@ -6,6 +6,6 @@ func init() {
 	fmt.Println("halo")
 }
 
-func cetak(a string) {
+func Cetak(a string) {
 	fmt.Println("ini dari cetak")
 }
